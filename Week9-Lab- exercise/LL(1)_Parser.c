@@ -22,7 +22,7 @@ int isNT(char c) {
 
 void readFromFile() {
     FILE* fptr;
-    fptr = fopen("text.txt", "r");
+    fptr = fopen("grammar_for_LL(1).txt", "r");
     char buffer[255];
     int i;
     int j;
