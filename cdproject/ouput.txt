@@ -1,0 +1,45 @@
+ 
+ decimal ===>keyword
+ a ===>identifier
+ ,===>delimiter
+ b ===>identifier
+ ,===>delimiter
+ c ===>identifier
+ $===>delimiter
+ a ===>identifier
+ = ===> assignment operator
+ 2.30 ===>float
+ $===>delimiter
+ dig ===>keyword
+ d ===>identifier
+ = ===> assignment operator
+ 6 ===>digit
+ $===>delimiter
+ d ===>identifier
+ = ===> assignment operator
+ 2 ===>digit
+* ===>arthematic operator
+ 2 ===>digit
++ ===>arthematic operator
+ 2 ===>digit
+ $===>delimiter
+ if ===>keyword
+ [===>delimiter
+ a ===>identifier
+!====> relational operator
+ 0 ===>digit
+ ]===>delimiter
+ then ===>keyword
+ show ===>identifier
+ (===>delimiter
+ d ===>identifier 
+ | ===>keyword
+ )===>delimiter
+ $===>delimiter
+========================
+5 is the no of identifiers
+a
+b
+c
+d
+show
